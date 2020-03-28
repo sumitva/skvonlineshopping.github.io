@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ecommerce Online Shopping Website</title>
+
+<link rel="stylesheet" type="text/css" href="my_website_2_style.css">
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+
+<table class="header">
+<tr> 
+<th class="logo">Online Shopping</th> 
+
+<th><input class="search-box"type="text" list="datalist1" placeholder="Search for products, Brands, more."autofocus>
+
+<datalist id="datalist1">
+<option value="Redmi note 8">
+<option value="Redmi note 8 pro">
+</option>
+</datalist>
+
+
+<input class="search-btn" type="button" value="Search"></th>
+
+<th class="btn">Login & Signup</th>
+
+<th class="btn">More</th>
+
+<th class="btn">Cart</th>
+
+</tr>
+
+</table>
+
+<table class="header1">
+
+<tr>
+
+<th class="item">
+
+<div class="dropdown">
+
+<span>Electronics</span>
+
+<div class="dropdown-content">
+
+<p>Fans</p>
+
+<p>Washing Machines</p>
+
+<p>Home Theater</p>
+
+<p>Irons</p>
+
+</div>
+
+</div>
+
+</th>
+
+<th class="item">Mobiles</th>
+
+<th class="item">Tv & Television</th>
+
+<th class="item">Mens</th>
+
+<th class="item">Womens</th>
+
+<th class="item">Baby & kids</th>
+
+<th class="item">Sports</th>
+
+<th class="item">Books</th>
+
+</tr>
+
+</table>
+
+<center><img  class="banner"src="/storage/emulated/0/DCIM/Screenshots/IMG_20200323_160609.jpg">
+</center>
+
+<br>
+
+<table class="header2">
+
+<tr>
+<td class="mobile"colspan="5"><h1><b>Mobiles</b></h1><hr><br></td>
+</tr> 
+
+<tr>
+<td class="im"><img class="imi" src="/storage/emulated/0/Mobile/P7.jpg" width="85%"></td>
+<td class="im"><img class="imi"src="/storage/emulated/0/Mobile/P2.jpeg" width="85%"></td>
+<td class="im"><img class="imi" src="/storage/emulated/0/Mobile/P3.jpg "></td>
+<td class="im"><img class="imi "src="/storage/emulated/0/Mobile/P4.jpeg" width="85%"></td>
+<td class="im"><img class="imi" src="/storage/emulated/0/Mobile/P6.jpeg" width="85%"></td>
+
+</tr>
+
+<tr class="price">
+
+<th>price: 7999/-</th>
+
+<th>price: 8999/-</th>
+
+<th>price: 9999/-</th>
+
+<th>price: 10999/-</th>
+
+<th>price: 20999/-</th>
+
+</tr>
+
+<tr>
+<th><a href="show_detail_1_index.html"><input  class="show-btn"type="button" value="Show Details"></a></th>
+<th><a href="show_detail_1_index.html"><input  class="show-btn"type="button" value="Show Details"></a></th>
+<th><a href="show_detail_1_index.html"><input  class="show-btn"type="button" value="Show Details"></a></th>
+<th><a href="show_detail_1_index.html"><input  class="show-btn"type="button" value="Show Details"></a></th>
+<th><a href="show_detail_1_index.html"><input  class="show-btn"type="button" value="Show Details"></a></th>
+</tr>
+
+</table> <br> 
+
+
+
+<table class="header3">
+
+<tr>
+
+<td  class="kitchen-items"colspan="5"><h1>Kitchen Appliances</h1><hr><br></td>
+
+
+<tr>
+<td class="im"><img class="imi "src="/storage/emulated/0/Kitchen/F1.jpeg" width="85%"></td>
+<td class="im"><img class="imi" src="/storage/emulated/0/Kitchen/K7.jpeg" width="85%"></td>
+<td class="im"><img class="imi "src="/storage/emulated/0/Kitchen/K5.jpeg" width="85%"></td>
+<td class="im"><img class="imi" src="/storage/emulated/0/Kitchen/K6.jpeg" width="85%"></td>
+<td class="im"><img class="imi" src="/storage/emulated/0/Kitchen/K2.jpeg" width="85%"></td>
+</tr>
+
+<tr>
+<th>Price: 3999/-</th>
+
+<th>Price: 999/-</th>
+
+<th>Price: 599/-</th>
+
+<th>Price: 899/-</th>
+
+<th>Price: 1999/-</th>
+
+</tr>
+
+</tr>
+<tr>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+</tr>
+
+</table> <br>
+
+<table class="header4">
+
+<tr>
+
+<td class="earphone_items"colspan="5"><h1>Earphones</h1><hr><br><br</td>
+
+</tr>
+
+<tr>
+
+<td class="im"><img class="imi" src="/storage/emulated/0/Earphones/Er1.jpeg" width="85%"></td>
+<td class="im"><img class="imi" src="/storage/emulated/0/Earphones/Er2.jpeg" width="85%"></td>
+<td class="im"><img class="imi" src="/storage/emulated/0/Earphones/Er3.jpeg" width="85%"></td>
+<td class="im"><img class="imi" src="/storage/emulated/0/Earphones/Er4.jpeg" width="85%"></td>
+<td class="im"><img class="imi" src="/storage/emulated/0/Earphones/Er5.jpeg" width="85%"></td>
+</tr>
+
+
+<tr>
+<th>price: 499/-</th>
+<th>price: 599/-</th>
+<th>price: 699/-</th>
+<th>price: 799/-</th>
+<th>price: 899/-</th>
+</tr>
+
+</tr>
+<tr>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+</tr>
+
+
+</table> <br> 
+
+<table class="header5">
+
+<tr>
+
+<td class="earphone_items"colspan="5"><h1>Electronic Appliances</h1><hr><br><br></td>
+
+</tr>
+
+<tr>
+<td class="im"><img class="imi" src="/storage/emulated/0/Electronic/E1.jpeg" width="85%"></td>
+<td class="im"><img class="imi "src="/storage/emulated/0/Electronic/E2.jpeg" width="85%"></td>
+<td class="im"><img class="imi "src="/storage/emulated/0/Electronic/E3.jpeg" width="85%"></td>
+<td class="im"><img class="imi "src="/storage/emulated/0/Electronic/E4.jpeg" width="85%"></td>
+<td class="im"><img class="imi" src="/storage/emulated/0/Electronic/E5.jpeg" width="85%"></td>
+</tr>
+
+<tr>
+<th>price: 5599/-</th>
+<th>price: 599/-</th>
+<th>price: 33999/-</th>
+<th>price: 799/-</th>
+<th>price: 899/-</th>
+</tr>
+
+</tr>
+<tr>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+<th><input  class="show-btn"type="button" value="Show Details"></th>
+</tr>
+
+</table>
+
+<div class="header6">
+
+<h2 class="logo">Sumit Skv...</h2>
+
+<ul class="menu">
+
+<a href="/storage/emulated/0/TrebEdit/my website2/profile.html">Profile</a>
+<a href="/storage/emulated/0/TrebEdit/my website2/my_website_2 index.html">Home</a>
+<a href="#">About Website</a>
+<a href="#">Services</a>
+
+</ul>
+
+</div>
+
+<table class="social-link">
+
+<tr>
+
+<th width="20%"><a class="sb" href="https://m.facebook.com/smartysumitverma9794"><i class="fa fa-facebook"></i></a></th>
+<th width="20%"><a class="sb" href="#"><i class="fa fa-twitter"></i></a></th>
+<th width="20%"><a class="sb" href="https://www.instagram.com/sumit_verma9044/"><i class="fa fa-instagram"></i></a></th>
+<th width="20%"><a class="sb" href="#"><i class="fa fa-google"></i></a></th>
+<th width="20%"><a class="sb" href="#"><i class="fa fa-youtube"></i></a></th>
+</tr>
+
+</table>
+
+<table class="header7">
+
+<tr>
+ <th><p>SKV Web Deisgn, Copyright &copy; 2020.</p></th>
+</tr>
+
+</table> 
+
+</body>
+
+</html>
